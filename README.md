@@ -44,3 +44,7 @@ To run the program, navigate to `main/Main.java` and execute the program.
 **Register New User**:  
 - Provide a unique email and a name for registration.  
 - After successful registration, you can log in with the new credentials.
+
+---
+
+**Developed by Klaudia Rapaj for academic purposes.**
